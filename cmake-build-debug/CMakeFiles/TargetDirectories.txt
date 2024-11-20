@@ -1,0 +1,3 @@
+C:/Users/rbrza/CLionProjects/sorts/cmake-build-debug/CMakeFiles/sorts.dir
+C:/Users/rbrza/CLionProjects/sorts/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rbrza/CLionProjects/sorts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
